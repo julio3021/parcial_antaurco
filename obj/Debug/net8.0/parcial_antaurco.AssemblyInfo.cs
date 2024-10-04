@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parcial_antaurco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707e6847ab22544f500271629e9d080827960730")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3833c6f00bbd0c1d8c003714809d72fa614e59")]
 [assembly: System.Reflection.AssemblyProductAttribute("parcial_antaurco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parcial_antaurco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
